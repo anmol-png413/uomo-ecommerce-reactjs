@@ -1,12 +1,10 @@
 # UOMO E-commerce Website Using ReactJS
 
-![uomo-ecommerce-website-reactjs](https://socialify.git.ci/shakti177/uomo-ecommerce-website-reactjs/image?custom_language=React&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
 
 ## 📌 Live Demo
-https://uomo-ecommerce-website.netlify.app
+uomo-ecommerce-reactjs.vercel.app
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fec4a869-298c-4e9c-8df6-cb6f132f7bd8/deploy-status)](https://app.netlify.com/sites/uomo-ecommerce-website/deploys)
 
 ## 😎 Features
 
@@ -29,48 +27,6 @@ https://uomo-ecommerce-website.netlify.app
 
 ---
 
-## 📁 Project Structure
-
-```
-├── .gitignore
-├── netlify.toml
-├── package.json
-├── README.md
-├── public/
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── manifest.json
-│   └── shirt_baked_2.glb
-└── src/
-    ├── App.css
-    ├── App.js
-    ├── App.test.js
-    ├── index.css
-    ├── index.js
-    ├── reportWebVitals.js
-    ├── setupTests.js
-    ├── App/
-    │   └── store.js
-    ├── Assets/
-    │   ├── logo.png
-    │   ├── nav-bg.jpg
-    │   ├── newsletter-popup.jpg
-    │   ├── pattern_bg.png
-    │   ├── paymentIcon.png
-    │   ├── slideshow-character1.png
-    │   ├── slideshow-character2.png
-    │   ├── slideshow-pattern.png
-    │   ├── success.png
-    │   ├── About/
-    │   ├── Banner/
-    │   ├── Blog/
-    │   ├── Brands/
-    │   └── Collection/
-    ├── Components/
-    ├── Data/
-    ├── Features/
-    └── Pages/
-```
 
 ---
 
