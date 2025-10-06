@@ -80,7 +80,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/shakti177/uomo-ecommerce-website-reactjs.git
+
 
 # Go into the repository
 $ cd uomo-ecommerce-website-reactjs
@@ -100,15 +100,7 @@ $ npm install
 $ npm start
 ```
 
-## Star History
 
-<a href="https://www.star-history.com/#shakti177/uomo-ecommerce-website-reactjs&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=shakti177/uomo-ecommerce-website-reactjs&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=shakti177/uomo-ecommerce-website-reactjs&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=shakti177/uomo-ecommerce-website-reactjs&type=Timeline" />
- </picture>
-</a>
 
 👨‍💻 Happy coding!
 ---
